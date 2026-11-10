@@ -1,6 +1,4 @@
-# Python-Exercise-_-Lists
-
-🛒 Clothes Store Database Manager
+Clothes Store Database Manager
 Python Status
 
 An interactive and lightweight Python command-line application designed to simulate real-time inventory and pricing management for an e-commerce platform. This project demonstrates core programming principles including dynamic memory lists, conditional logic, user-input processing, and formatted data display.
